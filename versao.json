@@ -1,10 +1,10 @@
 {
-  "available": true,
+  "available": false,
   "package_name": "org.rafaelgamer07.craftlandia.origens",
-  "latest_version": "4.3.54 (teste)",
-  "latest_code": 4354,
-  "minimum_code": 4354,
+  "latest_version": "4.3.53",
+  "latest_code": 4353,
+  "minimum_code": 4353,
   "download_url": "",
-  "notes": "TESTE DE BLOQUEIO: Craftlandia Origens 4.3.53 desativado temporariamente. Nenhum APK substituto foi publicado no MediaFire; para reativar, solicite a restauracao da versao minima 4353.",
-  "published_at": "2026-11-03T03:09:00Z"
+  "notes": "Teste encerrado. Versao 4.3.53 liberada novamente; nenhuma atualizacao obrigatoria no momento.",
+  "published_at": "2026-11-03T03:00:00Z"
 }
